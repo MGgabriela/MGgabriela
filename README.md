@@ -1,5 +1,15 @@
 ### Oi! Sou a Gabriela Marques 🤙
 
+Formada em ciência da computação, e estou sempre fazendo diversos cursos online para me aperfeiçoar cada vez mais na minha área . Atualmente trabalho como desenvolvedora Full Stack, mas com foco em back-end, e nesse tempo adquiri diversos conhecimentos principalmente em nodeJs, typeScript, arquitetura entre outros.
+
+ Possuo experiência com as tecnologias NodeJs, React, TypeScript, PostgreSql, mongoDB, RabbitMQ, Aws, já tendo atuado um pouco mais de um ano com todas elas e nos últimos meses venho dedicando meus estudos a aprimora-las. Participei de projetos de integração de serviços back-end de meios de pagamento de checkouts, e-commerce e transferência monetária instantânea (pix)
+ 
+### Hi! I'm Gabriela Marques  🤙
+
+I graduated in computer science, and I'm always taking several online courses to improve myself in my area. Currently working as a Full Stack developer, but with a focus on back-end, and in this time I acquired several knowledge mainly in nodeJs, typeScript, architecture and others.
+
+I have experience with the technologies nodeJs, react, typeScript, postgreSql, mongoDB, rabbitMQ, aws, having already worked a little more than a year with all of them and in recent months I have been dedicating my studies to improve them. I participated in projects to integrate back-end services for checkout, e-commerce and instant money transfer payment methods.
+
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:gabriela.marques.lpl@gmail.com>) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/61981726715) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-marques-49a062167/) [![MEwebsite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
