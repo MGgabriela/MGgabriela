@@ -30,7 +30,7 @@ I have experience with the technologies nodeJs, react, typeScript, postgreSql, m
 
 <br /> 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MGgabriela&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MGgabriela&layout=compact&theme=cobalt)
 
 <br /> 
 
