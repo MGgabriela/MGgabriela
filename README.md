@@ -26,10 +26,6 @@ I have experience with the technologies nodeJs, react, typeScript, postgreSql, m
 
 <br /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGgabriela&show_icons=true&theme=cobalt)
-
-<br /> 
-
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MGgabriela&layout=compact&theme=cobalt)
 
 <br /> 
